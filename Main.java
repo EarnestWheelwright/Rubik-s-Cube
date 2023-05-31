@@ -10,7 +10,7 @@ class Main {
 		Cube cube = new Cube();
 		Panel panel = new Panel(cube);
 		//System.out.println(cube);
-    JFrame fram = new JFrame("Rubik's Cube :D");
+    	JFrame fram = new JFrame("Rubik's Cube :D");
 		//Timer
 		JLabel timer = new JLabel("00:00:00");
 		timer.setBounds(100,0,200,50);

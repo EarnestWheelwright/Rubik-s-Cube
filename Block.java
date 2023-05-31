@@ -1,5 +1,5 @@
 import java.awt.*;
-// change3
+
 public class Block
 {
   // instance variables
